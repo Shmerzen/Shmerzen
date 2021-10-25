@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shmerzen, thats what my friends call me, my nickname is Jonny 
 - 👀 I’m interested in learning how to code/program and learning how to do these things
 - 🌱 I’m currently learning ethical hacking and software developtment with python and other languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for any tips and help on learning programming
 - 📫 How to reach me ... Jonathonedwardlxvy@gmail.com 
 
 <!---
